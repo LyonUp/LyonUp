@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lyon 👋
 
 <!--
 **LyonUp/LyonUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LyonUp's github stats](https://github-readme-stats.vercel.app/api?username=lyonup&show_icons=true&theme=vue&hide=contribs)](https://lihang.info)
